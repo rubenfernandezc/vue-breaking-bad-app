@@ -1,4 +1,28 @@
-# Vue 3 + TypeScript + Vite
+# Temas puntuales de la sección
+
+Esta sección inicial nos dará un buen panorama sobre nuestro estado actual de conocimiento de Vue.js.
+
+La idea es comenzar un ejercicio que use Script Setup en aplicaciones con un comportamiento típico, es decir, dentro de un Router, Router Hijo, como componente Padre e Hijo también.
+
+Puntualmente veremos:
+
+    Vue Router 4
+
+    Script Setup
+
+    Separar archivos de un componente de Vue
+
+    Vue + TypeScript
+
+    Tipado de datos e inferir datos
+
+    Casteos
+
+    RouterView, RouterLink
+
+    Cambiar estilos de rutas activas padres e hijas
+
+## Vue 3 + TypeScript + Vite
 
 This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
